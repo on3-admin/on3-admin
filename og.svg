@@ -12,6 +12,6 @@
     <path d="M 70 10 L 130 85 L 70 160" stroke="#a3a3a3"/>
     <path d="M 130 10 L 190 85 L 130 160" stroke="#3dba82"/>
   </g>
-  <text x="340" y="300" fill="#fafafa" font-family="ui-sans-serif, system-ui, sans-serif" font-size="72" font-weight="600">On3</text>
-  <text x="340" y="370" fill="#a3a3a3" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32">Work stays yours until you share it</text>
+  <text x="340" y="355" fill="#fafafa" font-family="ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="600">On3</text>
+  <text x="340" y="410" fill="#a3a3a3" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26">Records, knowledge, and processes</text>
 </svg>
